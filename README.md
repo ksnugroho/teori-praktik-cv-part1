@@ -1,4 +1,4 @@
-# Teori &Praktik Computer Vision Bagian 1
+# Buku Teori & Praktik Computer Vision Bagian 1
 Disusun oleh:
 1. Ir. Kuncahyo Setyo Nugroho, S.Kom., M.Kom. (NVIDIA DLI Certified Instructor & University Ambassador)
 2. Mahmud Isnan, S.Kom., M.Eng. (NVIDIA DLI Certified Instructor & University Ambassador)
