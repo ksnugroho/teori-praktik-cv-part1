@@ -4,6 +4,6 @@ Disusun oleh:
 2. Mahmud Isnan, S.Kom., M.Eng.
 3. Prof. Dr. Bens Pardamean
 
-NVIDIA Artificial Intelligence Research and Development Center (AIRDC)
-Bina Nusantara University
+NVIDIA Artificial Intelligence Research and Development Center (AIRDC)<br>
+Bina Nusantara University<br>
 [https://airdc.binus.ac.id](https://airdc.binus.ac.id)
